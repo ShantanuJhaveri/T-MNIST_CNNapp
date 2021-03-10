@@ -4,5 +4,5 @@ The model also has an app.py, so that students can see that their script is actu
 <br>
 ### Prerequisites
 this model was created after the students developed the CNN from scratch. Attached below is the repository to that project
-[CNNs from Scratch with MNIST]https://github.com/ShantanuJhaveri/T-CNN_scratch
+- [CNNs from Scratch with MNIST](https://github.com/ShantanuJhaveri/T-CNN_scratch)
 ##### This was an educational model for students learning about CV. This was to demonstrate the pipeline with keras, as the repository below does everything with pure maths and demonstrates everything contained in a CNN as class structure
